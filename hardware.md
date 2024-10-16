@@ -31,3 +31,4 @@ Os buses caracterízanse por:
 ● Bus de control
 
 ![foto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goconqr.com%2Fmindmap%2F38925226%2Fhardware-y-software&psig=AOvVaw0_dhUBEByIY8Trs-x9Cne8&ust=1729168384658000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj6rK70kokDFQAAAAAdAAAAABAJ)
+
