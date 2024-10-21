@@ -1,6 +1,7 @@
 ---
 title: graficas 
-parent: hardeare
+parent: hardware
 nav_order: 1
 ---
-![iamgen](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopesdegama.com%2Flistas%2Fordenadores%2Ftarjetas-graficas&psig=AOvVaw02nLegqzy-3v4cWMPdXjgo&ust=1729592864690000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDqtNahn4kDFQAAAAAdAAAAABAE)
+![image](https://github.com/user-attachments/assets/7e8db5be-1b13-4aca-866b-75c507255404)
+
