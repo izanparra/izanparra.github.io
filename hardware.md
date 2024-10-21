@@ -30,5 +30,6 @@ Os buses caracterízanse por:
 ● Bus de direccións
 ● Bus de control
 
-![foto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uciinformatica.es%2Fdiferencia-entre-hardware-y-software%2F&psig=AOvVaw0_dhUBEByIY8Trs-x9Cne8&ust=1729168384658000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj6rK70kokDFQAAAAAdAAAAABAX)
+![image](https://github.com/user-attachments/assets/c724023d-fddb-4b0a-b0ac-7119c33ca1cd)
+
 
