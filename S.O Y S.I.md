@@ -23,4 +23,5 @@ compoñente hardware queda practicamente invariable ao longo da vida deste,(salv
 S.O :
 Un sistema operativo (SO) es el programa que, después de ser cargado inicialmente en la computadora por un programa de arranque, administra todos los demás programas de aplicación en una computadora.
 
-![foto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fes%2Fimages%2Fsearch%2Finform%25C3%25A1tica%2F&psig=AOvVaw36FRx-Gieg-W4u5H37TELZ&ust=1729286152927000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDK58SrlokDFQAAAAAdAAAAABAE)
+![image](https://github.com/user-attachments/assets/c6e80e06-c686-499c-94b7-20d66e70db81)
+
