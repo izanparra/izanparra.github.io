@@ -4,7 +4,7 @@ layout: home
 ---
 
 La Informática es la rama de la Ingeniería que estudia el hardware, las redes de datos y el software necesarios para tratar información de forma automática.
-Jorge novo mayor gilipollas de la historia 
+
 
 
 Esta dividida en muchas ramas :
